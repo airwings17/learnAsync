@@ -1,0 +1,7 @@
+C:\T\Async\AsyncProgram\AsyncProgram\bin\Debug\AsyncProgram.exe.config
+C:\T\Async\AsyncProgram\AsyncProgram\bin\Debug\AsyncProgram.exe
+C:\T\Async\AsyncProgram\AsyncProgram\bin\Debug\AsyncProgram.pdb
+C:\T\Async\AsyncProgram\AsyncProgram\obj\Debug\AsyncProgram.csprojAssemblyReference.cache
+C:\T\Async\AsyncProgram\AsyncProgram\obj\Debug\AsyncProgram.csproj.CoreCompileInputs.cache
+C:\T\Async\AsyncProgram\AsyncProgram\obj\Debug\AsyncProgram.exe
+C:\T\Async\AsyncProgram\AsyncProgram\obj\Debug\AsyncProgram.pdb
